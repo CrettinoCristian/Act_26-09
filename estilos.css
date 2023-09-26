@@ -1,0 +1,57 @@
+body{
+    background-color: pink;
+}
+.fondoverde{
+    background-color: green;
+}
+
+h2{
+    background-color: aqua;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#TituloPrincipal{
+    background-color: rgb(120, 255, 9);
+    width: 400px;
+    height: 50px;
+    display: inline-block;
+}
+
+button{
+    background-color: blueviolet;
+    display: block;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#Gris{
+    background-color: gray;
+}
+
+.Faro{
+    width: 300px;
+}
+
+.Texto2{
+    width: 25%;
+    height: 40 vh;
+}
+
+.bordeazul{
+    border-color: blue;
+    border-width: 2px;
+    border-style: dotted;
+}
+
+#Textounico{
+    background-image: url(./B/Imagen/tall-lighthouse-north-sea-cloudy-sky_181624-49637.avif);
+}
+
+ul{
+    background-color: chocolate;
+    width: 500px;
+}
+
+li{
+    background-color: red;
+    width: 500px;
+}
